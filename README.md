@@ -32,4 +32,4 @@ vortextech-aiml-week3/
 ├── requirements.txt
 ```
 
-**Author:** AI/ML Engineer (Antigravity) — VortexTech AI/ML Internship, Week 3.
+Mohid Saleem — VortexTech AI/ML Internship, Week 3
